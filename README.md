@@ -1,8 +1,8 @@
 # A/B Test: New Utility Bill Payment Form
 
-Product analytics case study: did a new payment form with autofilled payment details increase the share of successful utility bill payments?
+A product analytics case study evaluating whether a redesigned utility bill payment form with autofilled payment details increases the rate of successful payments.
 
-> **Data note:** this is an English adaptation of a real job-application case. The original dataset was not available, so everything here runs on a **synthetic dataset** that mimics its structure and data-quality problems (empty users, impossible ages, test records, group mismatches). Cities are Berlin, Hamburg and Other cities.
+> **Data note:** This repository uses a **synthetic dataset informed by real-world utility payment data structures and patterns**. It was designed to preserve realistic analytical characteristics and data-quality issues without exposing confidential customer information. The dataset includes missing values, implausible ages, test records, and experiment-group inconsistencies. The geographical scope is Germany, with cities represented as Berlin, Hamburg, and Other cities.
 
 ## Result (synthetic data)
 
@@ -31,8 +31,8 @@ Extra checks on the cleaned data: all payments start within April 1-30, 2024, an
 ## Repository structure
 
 ```
-├── AB_test_Synthetic_EN.ipynb   # full analysis (with outputs)
-├── task/Task_EN.md              # the case description (English)
+├── AB_test_Synthetic.ipynb   # full analysis (with outputs)
+├── case/case_overview.md              # the case description
 ├── data/
 │   ├── AB_test_synthetic.xlsx   # sheets: Users, Pays (synthetic)
 │   └── AB_test_synthetic.csv    # copy of the Users sheet
@@ -45,7 +45,7 @@ Extra checks on the cleaned data: all payments start within April 1-30, 2024, an
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook AB_test_Synthetic_EN.ipynb
+jupyter notebook AB_test_Synthetic.ipynb
 ```
 
 The notebook reads `data/AB_test_synthetic.xlsx`, writes `clean_synth_data.xlsx` and saves the charts as `viz_*.png` in the working directory.
