@@ -1,0 +1,1505 @@
+﻿user_id,group,age,city,device_type
+1001,A,34,Berlin,ios
+1002,A,47,Berlin,ios
+1003,A,28,Hamburg,android
+1004,A,50,Hamburg,ios
+1005,A,22,Other cities,ios
+1006,A,35,Other cities,android
+1007,A,35,Berlin,android
+1008,A,31,Other cities,ios
+1009,A,23,Other cities,ios
+1010,A,24,Hamburg,android
+1011,A,29,Other cities,android
+1012,A,41,Berlin,android
+1013,A,32,Berlin,ios
+1014,A,21,Hamburg,ios
+1015,A,37,Berlin,android
+1016,A,30,Hamburg,android
+1017,A,42,Berlin,android
+1018,A,46,Berlin,ios
+1019,A,39,Other cities,android
+1020,A,45,Berlin,ios
+1021,A,38,Hamburg,ios
+1022,A,33,Berlin,ios
+1023,A,27,Other cities,android
+1024,A,32,Berlin,android
+1025,A,30,Other cities,android
+1026,A,49,Berlin,ios
+1027,A,29,Berlin,android
+1028,A,36,Other cities,android
+1029,A,42,Hamburg,ios
+1030,A,43,Other cities,android
+1031,A,45,Hamburg,ios
+1032,A,39,Berlin,ios
+1033,A,48,Hamburg,android
+1034,A,27,Berlin,android
+1035,A,42,Berlin,android
+1036,A,25,Berlin,android
+1037,A,36,Berlin,android
+1038,A,40,Other cities,android
+1039,A,28,Berlin,android
+1040,A,41,Hamburg,android
+1041,A,38,Berlin,ios
+1042,A,44,Hamburg,android
+1043,A,20,Other cities,ios
+1044,A,35,Hamburg,android
+1045,A,34,Hamburg,android
+1046,A,34,Other cities,android
+1047,A,42,Other cities,android
+1048,A,39,Other cities,ios
+1049,A,37,Other cities,android
+1050,A,37,Berlin,ios
+1051,A,37,Other cities,android
+1052,A,27,Berlin,android
+1053,A,36,Other cities,ios
+1054,A,26,Other cities,ios
+1055,A,38,Hamburg,android
+1056,A,20,Hamburg,android
+1057,A,21,Berlin,android
+1058,A,31,Hamburg,android
+1059,A,26,Other cities,ios
+1060,A,35,Other cities,ios
+1061,A,45,Other cities,android
+1062,A,37,Hamburg,ios
+1063,A,43,Other cities,ios
+1064,A,39,Hamburg,ios
+1065,A,35,Other cities,android
+1066,A,34,Berlin,android
+1067,A,30,Berlin,android
+1068,A,32,Hamburg,android
+1069,A,33,Other cities,android
+1070,A,25,Berlin,ios
+1071,A,25,Other cities,ios
+1072,A,33,Other cities,android
+1073,A,39,Hamburg,android
+1074,A,32,Hamburg,ios
+1075,A,23,Hamburg,ios
+1076,A,33,Hamburg,android
+1077,A,21,Hamburg,android
+1078,A,23,Hamburg,ios
+1079,A,20,Other cities,android
+1080,A,20,Other cities,android
+1081,A,28,Hamburg,android
+1082,A,35,Hamburg,android
+1083,A,29,Hamburg,android
+1084,A,44,Other cities,ios
+1085,A,35,Berlin,android
+1086,A,43,Other cities,ios
+1087,A,46,Other cities,ios
+1088,A,35,Other cities,ios
+1089,A,20,Hamburg,android
+1090,A,34,Berlin,ios
+1091,A,30,Hamburg,android
+1092,A,33,Other cities,android
+1093,A,39,Berlin,android
+1094,A,36,Other cities,android
+1095,A,37,Hamburg,android
+1096,A,35,Berlin,android
+1097,A,31,Hamburg,ios
+1098,A,35,Berlin,ios
+1099,A,37,Hamburg,android
+1100,A,37,Hamburg,android
+1101,A,42,Berlin,ios
+1102,A,34,Hamburg,android
+1103,A,37,Hamburg,android
+1104,A,24,Hamburg,ios
+1105,A,45,Hamburg,ios
+1106,A,39,Hamburg,ios
+1107,A,35,Berlin,ios
+1108,A,48,Other cities,android
+1109,A,22,Berlin,android
+1110,A,38,Berlin,android
+1111,A,37,Berlin,android
+1112,A,28,Hamburg,android
+1113,A,47,Hamburg,android
+1114,A,39,Other cities,android
+1115,A,42,Other cities,android
+1116,A,34,Berlin,android
+1117,A,23,Other cities,android
+1118,A,23,Berlin,ios
+1119,A,38,Berlin,android
+1120,A,29,Other cities,ios
+1121,A,29,Berlin,android
+1122,A,28,Hamburg,ios
+1123,A,20,Berlin,ios
+1124,A,20,Berlin,ios
+1125,A,37,Other cities,android
+1126,A,25,Other cities,ios
+1127,A,36,Berlin,android
+1128,A,22,Berlin,android
+1129,A,39,Berlin,android
+1130,A,25,Hamburg,ios
+1131,A,43,Hamburg,ios
+1132,A,25,Hamburg,ios
+1133,A,46,Hamburg,android
+1134,A,24,Hamburg,android
+1135,A,50,Other cities,android
+1136,A,33,Berlin,android
+1137,A,42,Other cities,ios
+1138,A,26,Hamburg,ios
+1139,A,41,Hamburg,ios
+1140,A,26,Other cities,android
+1141,A,41,Berlin,android
+1142,A,44,Other cities,android
+1143,A,35,Hamburg,android
+1144,A,28,Other cities,android
+1145,A,38,Other cities,ios
+1146,A,48,Other cities,ios
+1147,A,30,Berlin,android
+1148,A,20,Berlin,android
+1149,A,22,Other cities,android
+1150,A,31,Hamburg,android
+1151,A,26,Other cities,ios
+1152,A,20,Other cities,android
+1153,A,31,Berlin,ios
+1154,A,31,Hamburg,ios
+1155,A,35,Other cities,android
+1156,A,21,Berlin,android
+1157,A,28,Berlin,ios
+1158,A,35,Other cities,android
+1159,A,20,Other cities,ios
+1160,A,41,Berlin,android
+1161,A,23,Berlin,ios
+1162,A,30,Other cities,android
+1163,A,32,Berlin,ios
+1164,A,28,Berlin,android
+1165,A,32,Berlin,android
+1166,A,28,Berlin,ios
+1167,A,38,Berlin,ios
+1168,A,31,Hamburg,ios
+1169,A,43,Other cities,ios
+1170,A,24,Hamburg,android
+1171,A,35,Berlin,ios
+1172,A,28,Berlin,android
+1173,A,21,Berlin,ios
+1174,A,29,Berlin,ios
+1175,A,47,Other cities,android
+1176,A,40,Hamburg,ios
+1177,A,21,Other cities,android
+1178,A,26,Berlin,ios
+1179,A,32,Hamburg,android
+1180,A,26,Berlin,ios
+1181,A,42,Berlin,android
+1182,A,32,Other cities,ios
+1183,A,25,Berlin,ios
+1184,A,22,Berlin,android
+1185,A,35,Berlin,android
+1186,A,33,Hamburg,ios
+1187,A,22,Other cities,ios
+1188,A,43,Other cities,android
+1189,A,43,Other cities,android
+1190,A,45,Berlin,android
+1191,A,44,Berlin,ios
+1192,A,33,Other cities,ios
+1193,A,36,Berlin,ios
+1194,A,30,Hamburg,ios
+1195,A,32,Hamburg,android
+1196,A,37,Other cities,android
+1197,A,23,Berlin,android
+1198,A,28,Other cities,ios
+1199,A,31,Other cities,android
+1200,A,22,Berlin,android
+1201,A,32,Hamburg,ios
+1202,A,20,Hamburg,ios
+1203,A,43,Other cities,android
+1204,A,20,Hamburg,android
+1205,A,38,Hamburg,ios
+1206,A,47,Berlin,ios
+1207,A,41,Berlin,android
+1208,A,27,Berlin,android
+1209,A,35,Hamburg,ios
+1210,A,26,Hamburg,android
+1211,A,28,Berlin,android
+1212,A,26,Berlin,android
+1213,A,29,Other cities,android
+1214,A,34,Other cities,ios
+1215,A,30,Hamburg,android
+1216,A,31,Berlin,android
+1217,A,28,Other cities,android
+1218,A,33,Other cities,android
+1219,A,37,Berlin,android
+1220,A,46,Hamburg,android
+1221,A,40,Other cities,android
+1222,A,39,Hamburg,android
+1223,A,53,Hamburg,ios
+1224,A,35,Berlin,ios
+1225,A,31,Hamburg,ios
+1226,A,23,Other cities,ios
+1227,A,40,Hamburg,android
+1228,A,26,Berlin,android
+1229,A,29,Hamburg,ios
+1230,A,36,Other cities,android
+1231,A,31,Other cities,ios
+1232,A,23,Hamburg,ios
+1233,A,30,Berlin,android
+1234,A,20,Berlin,ios
+1235,A,30,Berlin,ios
+1236,A,34,Other cities,android
+1237,A,25,Hamburg,android
+1238,A,20,Hamburg,ios
+1239,A,39,Berlin,ios
+1240,A,36,Berlin,ios
+1241,A,42,Hamburg,ios
+1242,A,53,Other cities,android
+1243,A,21,Hamburg,ios
+1244,A,30,Hamburg,ios
+1245,A,36,Other cities,ios
+1246,A,45,Hamburg,ios
+1247,A,33,Other cities,android
+1248,A,36,Other cities,android
+1249,A,40,Berlin,android
+1250,A,36,Other cities,android
+1251,A,21,Hamburg,ios
+1252,A,35,Berlin,android
+1253,A,52,Other cities,android
+1254,A,26,Hamburg,ios
+1255,A,32,Other cities,ios
+1256,A,35,Berlin,android
+1257,A,36,Berlin,android
+1258,A,36,Berlin,ios
+1259,A,26,Hamburg,ios
+1260,A,20,Berlin,ios
+1261,A,33,Berlin,ios
+1262,A,25,Berlin,ios
+1263,A,41,Berlin,ios
+1264,A,33,Berlin,ios
+1265,A,36,Berlin,ios
+1266,A,40,Other cities,ios
+1267,A,37,Berlin,ios
+1268,A,34,Other cities,android
+1269,A,22,Other cities,ios
+1270,A,23,Berlin,android
+1271,A,42,Berlin,android
+1272,A,27,Hamburg,android
+1273,A,20,Berlin,android
+1274,A,31,Hamburg,android
+1275,A,34,Hamburg,android
+1276,A,40,Other cities,android
+1277,A,47,Hamburg,ios
+1278,A,32,Hamburg,android
+1279,A,22,Other cities,android
+1280,A,34,Hamburg,ios
+1281,A,41,Hamburg,ios
+1282,A,32,Berlin,android
+1283,A,50,Other cities,android
+1284,A,47,Berlin,android
+1285,A,20,Hamburg,ios
+1286,A,22,Berlin,ios
+1287,A,26,Berlin,android
+1288,A,44,Berlin,ios
+1289,A,33,Berlin,ios
+1290,A,46,Other cities,ios
+1291,A,25,Berlin,ios
+1292,A,40,Hamburg,android
+1293,A,37,Other cities,android
+1294,A,35,Berlin,ios
+1295,A,30,Berlin,android
+1296,A,37,Other cities,android
+1297,A,22,Other cities,android
+1298,A,38,Berlin,ios
+1299,A,33,Hamburg,android
+1300,A,31,Hamburg,android
+1301,A,42,Berlin,android
+1302,A,26,Hamburg,ios
+1303,A,37,Other cities,ios
+1304,A,41,Berlin,ios
+1305,A,21,Other cities,android
+1306,A,33,Hamburg,android
+1307,A,29,Berlin,ios
+1308,A,34,Hamburg,android
+1309,A,27,Berlin,ios
+1310,A,44,Berlin,ios
+1311,A,30,Berlin,android
+1312,A,35,Other cities,ios
+1313,A,29,Berlin,ios
+1314,A,22,Berlin,android
+1315,A,35,Berlin,android
+1316,A,32,Other cities,ios
+1317,A,30,Other cities,android
+1318,A,38,Berlin,ios
+1319,A,29,Other cities,android
+1320,A,28,Berlin,android
+1321,A,46,Berlin,ios
+1322,A,41,Berlin,android
+1323,A,37,Hamburg,ios
+1324,A,35,Berlin,android
+1325,A,20,Berlin,ios
+1326,A,24,Berlin,android
+1327,A,33,Berlin,ios
+1328,A,28,Other cities,ios
+1329,A,30,Hamburg,ios
+1330,A,38,Other cities,android
+1331,A,39,Berlin,android
+1332,A,37,Other cities,android
+1333,A,32,Berlin,android
+1334,A,30,Other cities,ios
+1335,A,25,Other cities,android
+1336,A,42,Other cities,ios
+1337,A,26,Berlin,ios
+1338,A,37,Other cities,android
+1339,A,22,Other cities,android
+1340,A,28,Other cities,android
+1341,A,22,Hamburg,ios
+1342,A,21,Other cities,android
+1343,A,24,Hamburg,android
+1344,A,34,Hamburg,ios
+1345,A,23,Berlin,ios
+1346,A,30,Berlin,android
+1347,A,39,Berlin,ios
+1348,A,24,Berlin,ios
+1349,A,35,Berlin,ios
+1350,A,31,Berlin,ios
+1351,A,29,Hamburg,android
+1352,A,34,Berlin,ios
+1353,A,28,Berlin,android
+1354,A,24,Berlin,ios
+1355,A,43,Berlin,ios
+1356,A,44,Other cities,ios
+1357,A,27,Hamburg,android
+1358,A,30,Hamburg,android
+1359,A,29,Berlin,android
+1360,A,20,Other cities,android
+1361,A,35,Hamburg,ios
+1362,A,30,Other cities,android
+1363,A,34,Other cities,android
+1364,A,25,Other cities,ios
+1365,A,41,Other cities,ios
+1366,A,48,Berlin,ios
+1367,A,26,Berlin,ios
+1368,A,36,Other cities,android
+1369,A,23,Berlin,ios
+1370,A,32,Berlin,android
+1371,A,42,Hamburg,ios
+1372,A,40,Other cities,ios
+1373,A,36,Hamburg,android
+1374,A,30,Berlin,android
+1375,A,27,Berlin,android
+1376,A,29,Hamburg,ios
+1377,A,21,Hamburg,ios
+1378,A,30,Berlin,android
+1379,A,33,Other cities,android
+1380,A,37,Berlin,android
+1381,A,23,Berlin,android
+1382,A,22,Hamburg,ios
+1383,A,20,Hamburg,ios
+1384,A,22,Berlin,ios
+1385,A,23,Other cities,android
+1386,A,31,Other cities,ios
+1387,A,38,Other cities,android
+1388,A,43,Berlin,android
+1389,A,35,Berlin,android
+1390,A,25,Hamburg,android
+1391,A,40,Hamburg,ios
+1392,A,35,Other cities,ios
+1393,A,20,Berlin,android
+1394,A,20,Berlin,android
+1395,A,36,Berlin,android
+1396,A,39,Hamburg,android
+1397,A,20,Other cities,android
+1398,A,22,Berlin,android
+1399,A,38,Berlin,android
+1400,A,35,Berlin,android
+1401,A,32,Berlin,ios
+1402,A,40,Hamburg,android
+1403,A,36,Other cities,ios
+1404,A,30,Hamburg,ios
+1405,A,21,Berlin,ios
+1406,A,35,Other cities,ios
+1407,A,45,Berlin,ios
+1408,A,28,Other cities,ios
+1409,A,37,Hamburg,ios
+1410,A,35,Berlin,android
+1411,A,39,Hamburg,ios
+1412,A,30,Other cities,ios
+1413,A,29,Berlin,android
+1414,A,36,Other cities,android
+1415,A,29,Other cities,android
+1416,A,20,Other cities,ios
+1417,A,28,Berlin,ios
+1418,A,40,Berlin,ios
+1419,A,20,Berlin,android
+1420,A,28,Other cities,ios
+1421,A,39,Berlin,ios
+1422,A,24,Berlin,ios
+1423,A,27,Other cities,ios
+1424,A,34,Hamburg,ios
+1425,A,36,Berlin,android
+1426,A,30,Berlin,android
+1427,A,41,Berlin,ios
+1428,A,36,Hamburg,ios
+1429,A,24,Other cities,ios
+1430,A,22,Berlin,android
+1431,A,33,Berlin,ios
+1432,A,20,Other cities,ios
+1433,A,36,Hamburg,ios
+1434,A,35,Other cities,ios
+1435,A,29,Other cities,ios
+1436,A,20,Other cities,ios
+1437,A,33,Other cities,ios
+1438,A,44,Other cities,ios
+1439,A,37,Berlin,android
+1440,A,44,Hamburg,ios
+1441,A,27,Other cities,android
+1442,A,21,Berlin,ios
+1443,A,20,Other cities,android
+1444,A,20,Other cities,android
+1445,A,20,Hamburg,android
+1446,A,38,Other cities,android
+1447,A,30,Berlin,ios
+1448,A,39,Berlin,ios
+1449,A,37,Other cities,ios
+1450,A,27,Berlin,android
+1451,A,32,Hamburg,ios
+1452,A,33,Other cities,android
+1453,A,39,Berlin,android
+1454,A,36,Hamburg,android
+1455,A,60,Hamburg,android
+1456,A,20,Hamburg,android
+1457,A,37,Hamburg,ios
+1458,A,24,Berlin,ios
+1459,A,28,Other cities,android
+1460,A,33,Berlin,android
+1461,A,33,Other cities,ios
+1462,A,42,Other cities,ios
+1463,A,21,Other cities,android
+1464,A,32,Hamburg,ios
+1465,A,34,Berlin,android
+1466,A,50,Hamburg,ios
+1467,A,20,Hamburg,android
+1468,A,20,Berlin,android
+1469,A,38,Berlin,ios
+1470,A,42,Other cities,ios
+1471,A,34,Hamburg,android
+1472,A,38,Other cities,ios
+1473,A,49,Berlin,android
+1474,A,26,Hamburg,android
+1475,A,36,Other cities,ios
+1476,A,43,Hamburg,ios
+1477,A,32,Berlin,ios
+1478,A,40,Hamburg,android
+1479,A,30,Other cities,android
+1480,A,22,Other cities,ios
+1481,A,22,Other cities,ios
+1482,A,23,Berlin,android
+1483,A,38,Other cities,ios
+1484,A,29,Other cities,android
+1485,A,35,Other cities,android
+1486,A,40,Hamburg,android
+1487,A,43,Berlin,ios
+1488,A,30,Berlin,ios
+1489,A,20,Hamburg,android
+1490,A,31,Berlin,android
+1491,A,27,Other cities,android
+1492,A,26,Hamburg,ios
+1493,A,26,Berlin,ios
+1494,A,28,Other cities,ios
+1495,A,29,Berlin,android
+1496,A,32,Berlin,android
+1497,A,30,Berlin,ios
+1498,A,30,Other cities,ios
+1499,A,26,Hamburg,android
+1500,A,40,Other cities,ios
+1501,A,34,Hamburg,android
+1502,A,26,Other cities,ios
+1503,A,34,Hamburg,android
+1504,A,30,Berlin,android
+1505,A,30,Berlin,android
+1506,A,20,Berlin,android
+1507,A,26,Berlin,ios
+1508,A,42,Other cities,ios
+1509,A,32,Other cities,android
+1510,A,21,Other cities,android
+1511,A,20,Hamburg,ios
+1512,A,30,Hamburg,android
+1513,A,46,Other cities,android
+1514,A,29,Hamburg,android
+1515,A,32,Hamburg,ios
+1516,A,32,Other cities,android
+1517,A,20,Other cities,android
+1518,A,45,Other cities,android
+1519,A,35,Berlin,android
+1520,A,40,Other cities,android
+1521,A,31,Berlin,android
+1522,A,35,Berlin,android
+1523,A,21,Hamburg,ios
+1524,A,31,Berlin,android
+1525,A,39,Berlin,android
+1526,A,26,Berlin,ios
+1527,A,36,Hamburg,android
+1528,A,38,Other cities,ios
+1529,A,33,Other cities,ios
+1530,A,35,Berlin,android
+1531,A,39,Berlin,ios
+1532,A,33,Berlin,ios
+1533,A,43,Berlin,android
+1534,A,31,Hamburg,android
+1535,A,24,Berlin,android
+1536,A,20,Other cities,android
+1537,A,36,Berlin,ios
+1538,A,32,Other cities,ios
+1539,A,43,Other cities,android
+1540,A,22,Hamburg,ios
+1541,A,34,Other cities,android
+1542,A,20,Berlin,ios
+1543,A,32,Other cities,ios
+1544,A,20,Hamburg,android
+1545,A,41,Berlin,android
+1546,A,39,Berlin,android
+1547,A,30,Berlin,android
+1548,A,29,Other cities,ios
+1549,A,48,Other cities,android
+1550,A,40,Other cities,ios
+1551,A,29,Berlin,android
+1552,A,30,Hamburg,android
+1553,A,29,Other cities,android
+1554,A,29,Other cities,android
+1555,A,43,Berlin,android
+1556,A,37,Other cities,ios
+1557,A,40,Berlin,android
+1558,A,24,Berlin,android
+1559,A,35,Other cities,ios
+1560,A,34,Other cities,android
+1561,A,20,Berlin,android
+1562,A,39,Other cities,android
+1563,A,31,Other cities,ios
+1564,A,25,Other cities,android
+1565,A,38,Berlin,ios
+1566,A,29,Berlin,android
+1567,A,36,Hamburg,android
+1568,A,40,Other cities,ios
+1569,A,36,Other cities,ios
+1570,A,25,Berlin,android
+1571,A,27,Berlin,android
+1572,A,37,Other cities,android
+1573,A,46,Other cities,android
+1574,A,24,Berlin,ios
+1575,A,21,Berlin,android
+1576,A,40,Other cities,ios
+1577,A,41,Berlin,android
+1578,A,35,Other cities,android
+1579,A,36,Other cities,android
+1580,A,37,Other cities,android
+1581,A,38,Hamburg,android
+1582,A,20,Hamburg,ios
+1583,A,37,Other cities,android
+1584,A,36,Berlin,ios
+1585,A,45,Hamburg,android
+1586,A,39,Berlin,android
+1587,A,50,Hamburg,android
+1588,A,27,Berlin,android
+1589,A,36,Other cities,ios
+1590,A,48,Hamburg,ios
+1591,A,27,Other cities,ios
+1592,A,20,Other cities,android
+1593,A,39,Berlin,ios
+1594,A,35,Hamburg,android
+1595,A,36,Other cities,android
+1596,A,31,Berlin,ios
+1597,A,28,Other cities,android
+1598,A,40,Berlin,ios
+1599,A,40,Other cities,android
+1600,A,45,Other cities,ios
+1601,A,39,Berlin,ios
+1602,A,20,Berlin,ios
+1603,A,20,Berlin,ios
+1604,A,26,Other cities,android
+1605,A,26,Berlin,android
+1606,A,28,Hamburg,android
+1607,A,28,Other cities,android
+1608,A,35,Hamburg,ios
+1609,A,32,Other cities,android
+1610,A,32,Hamburg,android
+1611,A,36,Other cities,android
+1612,A,46,Berlin,ios
+1613,A,21,Other cities,ios
+1614,A,25,Other cities,android
+1615,A,35,Other cities,ios
+1616,A,20,Other cities,ios
+1617,A,40,Other cities,android
+1618,A,30,Hamburg,android
+1619,A,32,Berlin,ios
+1620,A,30,Berlin,ios
+1621,A,39,Other cities,android
+1622,A,25,Berlin,ios
+1623,A,37,Other cities,ios
+1624,A,32,Other cities,android
+1625,A,35,Berlin,android
+1626,A,31,Hamburg,android
+1627,A,44,Berlin,ios
+1628,A,25,Hamburg,android
+1629,A,37,Berlin,android
+1630,A,35,Other cities,ios
+1631,A,35,Other cities,android
+1632,A,23,Other cities,ios
+1633,A,20,Hamburg,android
+1634,A,20,Hamburg,android
+1635,A,20,Other cities,android
+1636,A,20,Other cities,android
+1637,A,36,Berlin,ios
+1638,A,39,Hamburg,android
+1639,A,36,Other cities,ios
+1640,A,33,Hamburg,android
+1641,A,25,Other cities,android
+1642,A,34,Berlin,android
+1643,A,32,Other cities,ios
+1644,A,24,Other cities,android
+1645,A,45,Other cities,ios
+1646,A,35,Other cities,android
+1647,A,38,Other cities,android
+1648,A,33,Berlin,ios
+1649,A,42,Other cities,ios
+1650,A,21,Other cities,ios
+1651,A,39,Hamburg,ios
+1652,A,40,Other cities,ios
+1653,A,23,Other cities,android
+1654,A,42,Berlin,android
+1655,A,21,Hamburg,ios
+1656,A,20,Berlin,ios
+1657,A,35,Hamburg,android
+1658,A,30,Hamburg,ios
+1659,A,24,Other cities,android
+1660,A,30,Berlin,ios
+1661,A,37,Other cities,android
+1662,A,44,Other cities,android
+1663,A,24,Berlin,android
+1664,A,32,Hamburg,android
+1665,A,37,Other cities,ios
+1666,A,36,Other cities,android
+1667,A,28,Berlin,ios
+1668,A,35,Berlin,ios
+1669,A,26,Berlin,ios
+1670,A,26,Berlin,ios
+1671,A,30,Berlin,ios
+1672,A,31,Berlin,android
+1673,A,38,Hamburg,android
+1674,A,37,Other cities,android
+1675,A,24,Berlin,ios
+1676,A,38,Hamburg,android
+1677,A,24,Other cities,android
+1678,A,35,Berlin,ios
+1679,A,42,Hamburg,android
+1680,A,32,Other cities,android
+1681,A,34,Berlin,ios
+1682,A,29,Other cities,ios
+1683,A,35,Other cities,android
+1684,A,38,Berlin,ios
+1685,A,23,Berlin,ios
+1686,A,20,Hamburg,ios
+1687,A,29,Other cities,android
+1688,A,22,Berlin,ios
+1689,A,25,Other cities,android
+1690,A,37,Berlin,android
+1691,A,39,Other cities,android
+1692,A,27,Berlin,android
+1693,A,20,Other cities,android
+1694,A,42,Other cities,ios
+1695,A,37,Hamburg,android
+1696,A,37,Other cities,ios
+1697,A,27,Other cities,android
+1698,A,30,Other cities,ios
+1699,A,34,Other cities,android
+1700,A,33,Other cities,ios
+1701,A,23,Other cities,ios
+1702,A,25,Other cities,ios
+1703,A,24,Other cities,android
+1704,A,27,Other cities,ios
+1705,A,27,Other cities,ios
+1706,A,21,Hamburg,android
+1707,A,41,Other cities,android
+1708,A,32,Berlin,android
+1709,A,31,Other cities,android
+1710,A,21,Berlin,android
+1711,A,25,Berlin,ios
+1712,A,32,Other cities,ios
+1713,A,34,Other cities,ios
+1714,A,39,Other cities,ios
+1715,A,28,Berlin,android
+1716,A,35,Hamburg,android
+1717,A,36,Hamburg,ios
+1718,A,40,Hamburg,android
+1719,A,31,Berlin,ios
+1720,A,42,Hamburg,android
+1721,A,50,Berlin,android
+1722,A,35,Berlin,android
+1723,A,42,Other cities,android
+1724,A,40,Berlin,ios
+1725,A,36,Berlin,ios
+1726,A,37,Other cities,ios
+1727,A,34,Hamburg,android
+1728,A,44,Other cities,android
+1729,A,31,Berlin,ios
+1730,A,34,Berlin,ios
+1731,A,20,Berlin,android
+1732,A,35,Berlin,android
+1733,A,30,Hamburg,android
+1734,A,27,Berlin,ios
+1735,A,24,Hamburg,android
+1736,A,28,Berlin,android
+1737,A,35,Hamburg,ios
+1738,A,53,Berlin,ios
+1739,A,31,Berlin,ios
+1740,A,29,Hamburg,ios
+1741,A,29,Hamburg,ios
+1742,A,30,Berlin,android
+1743,A,35,Hamburg,ios
+1744,A,33,Other cities,ios
+1745,A,28,Hamburg,android
+1746,A,29,Berlin,android
+1747,A,36,Berlin,ios
+1748,A,35,Hamburg,ios
+1749,A,33,Hamburg,ios
+1750,A,39,Hamburg,ios
+1751,B,37,Hamburg,ios
+1752,B,41,Berlin,android
+1753,B,37,Berlin,ios
+1754,B,38,Other cities,ios
+1755,B,38,Berlin,android
+1756,B,34,Other cities,android
+1757,B,40,Hamburg,android
+1758,B,42,Berlin,android
+1759,B,37,Berlin,android
+1760,B,20,Other cities,android
+1761,B,35,Berlin,android
+1762,B,40,Other cities,ios
+1763,B,20,Hamburg,ios
+1764,B,41,Berlin,android
+1765,B,27,Other cities,ios
+1766,B,21,Berlin,ios
+1767,B,35,Berlin,android
+1768,B,33,Other cities,android
+1769,B,30,Hamburg,android
+1770,B,38,Berlin,android
+1771,B,32,Berlin,android
+1772,B,20,Other cities,ios
+1773,B,35,Hamburg,android
+1774,B,24,Hamburg,android
+1775,B,34,Hamburg,android
+1776,B,20,Berlin,android
+1777,B,26,Berlin,ios
+1778,B,42,Berlin,android
+1779,B,40,Hamburg,ios
+1780,B,42,Hamburg,ios
+1781,B,28,Berlin,android
+1782,B,24,Hamburg,ios
+1783,B,32,Other cities,ios
+1784,B,28,Other cities,android
+1785,B,33,Hamburg,android
+1786,B,29,Other cities,android
+1787,B,25,Berlin,android
+1788,B,39,Berlin,ios
+1789,B,43,Other cities,ios
+1790,B,33,Berlin,ios
+1791,B,37,Other cities,android
+1792,B,28,Berlin,android
+1793,B,23,Hamburg,ios
+1794,B,25,Berlin,android
+1795,B,33,Berlin,ios
+1796,B,20,Hamburg,ios
+1797,B,38,Other cities,ios
+1798,B,31,Hamburg,ios
+1799,B,27,Berlin,android
+1800,B,27,Berlin,ios
+1801,B,34,Berlin,ios
+1802,B,35,Hamburg,ios
+1803,B,20,Berlin,android
+1804,B,32,Other cities,ios
+1805,B,22,Berlin,android
+1806,B,34,Other cities,android
+1807,B,35,Berlin,ios
+1808,B,30,Berlin,ios
+1809,B,31,Berlin,android
+1810,B,36,Berlin,ios
+1811,B,31,Hamburg,ios
+1812,B,35,Hamburg,android
+1813,B,29,Berlin,android
+1814,B,28,Hamburg,android
+1815,B,42,Hamburg,android
+1816,B,37,Berlin,ios
+1817,B,38,Berlin,ios
+1818,B,44,Berlin,android
+1819,B,41,Hamburg,android
+1820,B,46,Hamburg,android
+1821,B,32,Hamburg,ios
+1822,B,39,Berlin,ios
+1823,B,35,Berlin,ios
+1824,B,30,Other cities,android
+1825,B,22,Berlin,ios
+1826,B,27,Berlin,android
+1827,B,44,Berlin,ios
+1828,B,20,Other cities,ios
+1829,B,33,Other cities,android
+1830,B,26,Berlin,ios
+1831,B,42,Hamburg,ios
+1832,B,30,Other cities,ios
+1833,B,35,Hamburg,ios
+1834,B,43,Berlin,android
+1835,B,49,Hamburg,android
+1836,B,23,Hamburg,android
+1837,B,39,Berlin,ios
+1838,B,50,Berlin,android
+1839,B,29,Berlin,android
+1840,B,31,Other cities,ios
+1841,B,34,Hamburg,ios
+1842,B,30,Berlin,ios
+1843,B,41,Berlin,android
+1844,B,35,Berlin,ios
+1845,B,38,Berlin,android
+1846,B,37,Hamburg,android
+1847,B,42,Other cities,android
+1848,B,34,Berlin,ios
+1849,B,43,Berlin,ios
+1850,B,39,Berlin,ios
+1851,B,36,Other cities,android
+1852,B,29,Hamburg,ios
+1853,B,36,Other cities,ios
+1854,B,32,Other cities,ios
+1855,B,28,Berlin,android
+1856,B,23,Hamburg,ios
+1857,B,26,Berlin,ios
+1858,B,33,Other cities,android
+1859,B,33,Hamburg,ios
+1860,B,47,Berlin,android
+1861,B,48,Berlin,ios
+1862,B,34,Other cities,ios
+1863,B,35,Hamburg,ios
+1864,B,21,Hamburg,ios
+1865,B,20,Hamburg,ios
+1866,B,38,Hamburg,ios
+1867,B,37,Berlin,android
+1868,B,50,Hamburg,android
+1869,B,23,Berlin,ios
+1870,B,35,Hamburg,android
+1871,B,33,Hamburg,ios
+1872,B,27,Berlin,ios
+1873,B,33,Berlin,android
+1874,B,35,Hamburg,android
+1875,B,26,Berlin,ios
+1876,B,34,Berlin,android
+1877,B,28,Berlin,android
+1878,B,44,Hamburg,ios
+1879,B,39,Other cities,android
+1880,B,33,Other cities,android
+1881,B,29,Berlin,android
+1882,B,32,Hamburg,ios
+1883,B,24,Other cities,android
+1884,B,20,Hamburg,ios
+1885,B,35,Other cities,android
+1886,B,32,Berlin,ios
+1887,B,38,Berlin,ios
+1888,B,43,Other cities,ios
+1889,B,31,Hamburg,ios
+1890,B,29,Hamburg,android
+1891,B,55,Berlin,android
+1892,B,21,Berlin,android
+1893,B,31,Other cities,ios
+1894,B,26,Other cities,ios
+1895,B,27,Other cities,ios
+1896,B,35,Berlin,ios
+1897,B,29,Berlin,ios
+1898,B,28,Other cities,android
+1899,B,20,Berlin,ios
+1900,B,40,Hamburg,android
+1901,B,42,Hamburg,ios
+1902,B,27,Hamburg,ios
+1903,B,35,Other cities,ios
+1904,B,25,Hamburg,ios
+1905,B,31,Other cities,android
+1906,B,20,Other cities,android
+1907,B,35,Hamburg,ios
+1908,B,23,Other cities,ios
+1909,B,36,Other cities,ios
+1910,B,36,Berlin,ios
+1911,B,30,Other cities,android
+1912,B,35,Hamburg,android
+1913,B,29,Hamburg,android
+1914,B,26,Hamburg,ios
+1915,B,31,Berlin,ios
+1916,B,35,Berlin,android
+1917,B,28,Berlin,android
+1918,B,20,Other cities,android
+1919,B,37,Berlin,android
+1920,B,35,Berlin,android
+1921,B,40,Berlin,android
+1922,B,33,Hamburg,ios
+1923,B,43,Berlin,android
+1924,B,44,Berlin,ios
+1925,B,25,Hamburg,android
+1926,B,35,Hamburg,android
+1927,B,40,Other cities,ios
+1928,B,36,Berlin,android
+1929,B,36,Berlin,android
+1930,B,52,Berlin,android
+1931,B,30,Other cities,android
+1932,B,21,Hamburg,ios
+1933,B,42,Hamburg,ios
+1934,B,31,Berlin,android
+1935,B,27,Berlin,android
+1936,B,38,Hamburg,android
+1937,B,34,Berlin,ios
+1938,B,30,Hamburg,ios
+1939,B,29,Other cities,android
+1940,B,33,Berlin,ios
+1941,B,39,Berlin,android
+1942,B,39,Hamburg,ios
+1943,B,28,Other cities,ios
+1944,B,25,Other cities,android
+1945,B,34,Other cities,ios
+1946,B,32,Other cities,ios
+1947,B,20,Other cities,ios
+1948,B,42,Other cities,android
+1949,B,20,Berlin,android
+1950,B,33,Hamburg,ios
+1951,B,38,Berlin,android
+1952,B,20,Other cities,ios
+1953,B,46,Hamburg,android
+1954,B,25,Other cities,android
+1955,B,41,Berlin,ios
+1956,B,42,Other cities,ios
+1957,B,41,Hamburg,android
+1958,B,20,Other cities,ios
+1959,B,20,Other cities,android
+1960,B,37,Other cities,ios
+1961,B,33,Berlin,android
+1962,B,22,Berlin,android
+1963,B,39,Berlin,ios
+1964,B,31,Other cities,android
+1965,B,32,Hamburg,android
+1966,B,22,Hamburg,ios
+1967,B,20,Other cities,android
+1968,B,21,Berlin,ios
+1969,B,30,Other cities,ios
+1970,B,37,Berlin,ios
+1971,B,30,Berlin,ios
+1972,B,41,Berlin,ios
+1973,B,33,Hamburg,ios
+1974,B,27,Other cities,android
+1975,B,20,Berlin,android
+1976,B,29,Berlin,ios
+1977,B,32,Berlin,android
+1978,B,30,Hamburg,ios
+1979,B,23,Berlin,ios
+1980,B,38,Berlin,android
+1981,B,33,Other cities,ios
+1982,B,26,Hamburg,ios
+1983,B,29,Berlin,android
+1984,B,33,Berlin,ios
+1985,B,39,Other cities,android
+1986,B,44,Berlin,android
+1987,B,29,Other cities,android
+1988,B,49,Other cities,ios
+1989,B,42,Other cities,android
+1990,B,25,Other cities,ios
+1991,B,42,Hamburg,android
+1992,B,20,Other cities,ios
+1993,B,20,Hamburg,android
+1994,B,30,Hamburg,ios
+1995,B,25,Other cities,ios
+1996,B,28,Berlin,android
+1997,B,31,Berlin,ios
+1998,B,42,Other cities,android
+1999,B,33,Berlin,android
+2000,B,48,Berlin,android
+2001,B,20,Berlin,android
+2002,B,37,Berlin,ios
+2003,B,27,Berlin,ios
+2004,B,26,Berlin,ios
+2005,B,26,Berlin,ios
+2006,B,25,Other cities,android
+2007,B,35,Other cities,ios
+2008,B,29,Berlin,android
+2009,B,31,Hamburg,ios
+2010,B,27,Berlin,ios
+2011,B,40,Hamburg,ios
+2012,B,36,Other cities,android
+2013,B,37,Berlin,android
+2014,B,41,Berlin,android
+2015,B,50,Berlin,android
+2016,B,39,Berlin,ios
+2017,B,33,Berlin,ios
+2018,B,35,Hamburg,android
+2019,B,20,Hamburg,android
+2020,B,38,Other cities,ios
+2021,B,37,Other cities,ios
+2022,B,29,Hamburg,ios
+2023,B,33,Berlin,android
+2024,B,40,Berlin,ios
+2025,B,33,Berlin,ios
+2026,B,38,Hamburg,ios
+2027,B,39,Berlin,ios
+2028,B,33,Berlin,android
+2029,B,47,Hamburg,ios
+2030,B,33,Berlin,ios
+2031,B,37,Other cities,ios
+2032,B,31,Berlin,ios
+2033,B,21,Other cities,android
+2034,B,40,Other cities,ios
+2035,B,20,Other cities,android
+2036,B,36,Berlin,android
+2037,B,41,Hamburg,ios
+2038,B,23,Berlin,android
+2039,B,25,Berlin,ios
+2040,B,32,Other cities,ios
+2041,B,38,Berlin,android
+2042,B,30,Hamburg,ios
+2043,B,30,Hamburg,android
+2044,B,29,Berlin,android
+2045,B,34,Berlin,ios
+2046,B,20,Berlin,ios
+2047,B,35,Other cities,android
+2048,B,36,Hamburg,android
+2049,B,38,Berlin,ios
+2050,B,52,Berlin,android
+2051,B,34,Other cities,android
+2052,B,23,Other cities,android
+2053,B,32,Other cities,ios
+2054,B,31,Berlin,ios
+2055,B,39,Berlin,ios
+2056,B,29,Other cities,ios
+2057,B,36,Berlin,ios
+2058,B,28,Other cities,ios
+2059,B,33,Other cities,android
+2060,B,20,Other cities,android
+2061,B,37,Berlin,ios
+2062,B,36,Berlin,ios
+2063,B,41,Berlin,android
+2064,B,25,Other cities,android
+2065,B,48,Berlin,android
+2066,B,47,Hamburg,ios
+2067,B,39,Other cities,ios
+2068,B,31,Berlin,ios
+2069,B,32,Other cities,android
+2070,B,33,Other cities,android
+2071,B,34,Berlin,ios
+2072,B,25,Berlin,android
+2073,B,36,Hamburg,android
+2074,B,31,Other cities,ios
+2075,B,27,Other cities,ios
+2076,B,27,Hamburg,android
+2077,B,28,Hamburg,ios
+2078,B,32,Other cities,android
+2079,B,25,Berlin,android
+2080,B,26,Hamburg,ios
+2081,B,20,Berlin,android
+2082,B,22,Other cities,android
+2083,B,29,Hamburg,ios
+2084,B,23,Hamburg,android
+2085,B,35,Hamburg,android
+2086,B,39,Hamburg,android
+2087,B,35,Other cities,android
+2088,B,26,Other cities,android
+2089,B,24,Hamburg,android
+2090,B,36,Other cities,android
+2091,B,38,Berlin,android
+2092,B,42,Berlin,android
+2093,B,40,Other cities,android
+2094,B,36,Berlin,ios
+2095,B,34,Hamburg,android
+2096,B,43,Other cities,android
+2097,B,25,Other cities,android
+2098,B,31,Hamburg,ios
+2099,B,42,Berlin,ios
+2100,B,39,Berlin,ios
+2101,B,35,Hamburg,android
+2102,B,36,Other cities,ios
+2103,B,29,Other cities,android
+2104,B,26,Hamburg,ios
+2105,B,44,Berlin,android
+2106,B,43,Berlin,ios
+2107,B,34,Berlin,ios
+2108,B,20,Berlin,ios
+2109,B,50,Other cities,android
+2110,B,34,Other cities,ios
+2111,B,25,Hamburg,ios
+2112,B,37,Berlin,ios
+2113,B,24,Berlin,android
+2114,B,24,Other cities,android
+2115,B,35,Hamburg,android
+2116,B,37,Other cities,ios
+2117,B,23,Hamburg,android
+2118,B,34,Hamburg,ios
+2119,B,35,Hamburg,ios
+2120,B,33,Hamburg,android
+2121,B,34,Berlin,ios
+2122,B,31,Other cities,ios
+2123,B,22,Berlin,android
+2124,B,20,Berlin,ios
+2125,B,41,Hamburg,ios
+2126,B,41,Berlin,android
+2127,B,20,Berlin,android
+2128,B,20,Other cities,android
+2129,B,30,Berlin,ios
+2130,B,24,Other cities,android
+2131,B,36,Other cities,ios
+2132,B,40,Other cities,android
+2133,B,27,Hamburg,ios
+2134,B,35,Berlin,android
+2135,B,43,Berlin,android
+2136,B,43,Other cities,ios
+2137,B,27,Other cities,android
+2138,B,24,Hamburg,ios
+2139,B,20,Hamburg,ios
+2140,B,21,Berlin,android
+2141,B,23,Other cities,android
+2142,B,39,Other cities,ios
+2143,B,30,Other cities,android
+2144,B,34,Hamburg,ios
+2145,B,28,Hamburg,android
+2146,B,31,Berlin,ios
+2147,B,36,Other cities,android
+2148,B,37,Hamburg,android
+2149,B,28,Hamburg,android
+2150,B,35,Other cities,android
+2151,B,24,Berlin,ios
+2152,B,29,Berlin,ios
+2153,B,39,Other cities,ios
+2154,B,38,Berlin,ios
+2155,B,31,Berlin,ios
+2156,B,31,Hamburg,android
+2157,B,34,Hamburg,ios
+2158,B,31,Other cities,android
+2159,B,32,Hamburg,android
+2160,B,27,Berlin,ios
+2161,B,35,Berlin,android
+2162,B,36,Hamburg,android
+2163,B,20,Other cities,ios
+2164,B,31,Berlin,android
+2165,B,29,Berlin,ios
+2166,B,29,Berlin,android
+2167,B,31,Berlin,android
+2168,B,30,Other cities,ios
+2169,B,39,Berlin,android
+2170,B,31,Hamburg,android
+2171,B,20,Berlin,android
+2172,B,31,Berlin,android
+2173,B,40,Berlin,android
+2174,B,29,Other cities,ios
+2175,B,24,Hamburg,ios
+2176,B,37,Other cities,ios
+2177,B,32,Hamburg,android
+2178,B,31,Berlin,android
+2179,B,20,Other cities,android
+2180,B,29,Berlin,android
+2181,B,36,Berlin,ios
+2182,B,20,Hamburg,ios
+2183,B,38,Berlin,android
+2184,B,41,Berlin,android
+2185,B,21,Other cities,android
+2186,B,27,Hamburg,android
+2187,B,23,Hamburg,android
+2188,B,34,Other cities,ios
+2189,B,25,Other cities,ios
+2190,B,49,Berlin,ios
+2191,B,36,Other cities,ios
+2192,B,38,Other cities,ios
+2193,B,26,Other cities,android
+2194,B,25,Other cities,android
+2195,B,25,Hamburg,ios
+2196,B,20,Other cities,android
+2197,B,32,Other cities,android
+2198,B,25,Berlin,ios
+2199,B,25,Berlin,ios
+2200,B,21,Berlin,ios
+2201,B,40,Berlin,android
+2202,B,20,Berlin,android
+2203,B,20,Hamburg,ios
+2204,B,41,Other cities,android
+2205,B,37,Berlin,ios
+2206,B,20,Other cities,ios
+2207,B,35,Other cities,android
+2208,B,24,Other cities,ios
+2209,B,38,Other cities,ios
+2210,B,48,Berlin,android
+2211,B,28,Hamburg,ios
+2212,B,34,Hamburg,ios
+2213,B,33,Berlin,ios
+2214,B,41,Other cities,ios
+2215,B,45,Other cities,ios
+2216,B,22,Other cities,android
+2217,B,48,Berlin,android
+2218,B,36,Other cities,ios
+2219,B,43,Berlin,ios
+2220,B,27,Other cities,android
+2221,B,26,Other cities,android
+2222,B,31,Berlin,android
+2223,B,43,Hamburg,android
+2224,B,33,Other cities,ios
+2225,B,40,Other cities,ios
+2226,B,20,Hamburg,ios
+2227,B,32,Other cities,android
+2228,B,31,Other cities,android
+2229,B,27,Other cities,android
+2230,B,28,Berlin,android
+2231,B,31,Hamburg,android
+2232,B,37,Other cities,ios
+2233,B,37,Hamburg,ios
+2234,B,41,Hamburg,ios
+2235,B,42,Other cities,ios
+2236,B,36,Hamburg,ios
+2237,B,42,Other cities,android
+2238,B,36,Other cities,ios
+2239,B,34,Other cities,ios
+2240,B,25,Hamburg,ios
+2241,B,34,Other cities,ios
+2242,B,29,Other cities,ios
+2243,B,29,Other cities,android
+2244,B,40,Berlin,ios
+2245,B,28,Berlin,android
+2246,B,35,Hamburg,android
+2247,B,28,Other cities,android
+2248,B,32,Other cities,android
+2249,B,24,Other cities,android
+2250,B,20,Berlin,android
+2251,B,34,Berlin,ios
+2252,B,29,Hamburg,ios
+2253,B,20,Berlin,ios
+2254,B,41,Berlin,android
+2255,B,32,Berlin,ios
+2256,B,20,Berlin,ios
+2257,B,34,Other cities,ios
+2258,B,39,Berlin,android
+2259,B,33,Berlin,android
+2260,B,35,Berlin,android
+2261,B,33,Other cities,android
+2262,B,39,Hamburg,android
+2263,B,34,Berlin,ios
+2264,B,33,Other cities,ios
+2265,B,53,Berlin,ios
+2266,B,30,Hamburg,ios
+2267,B,38,Other cities,android
+2268,B,22,Hamburg,android
+2269,B,31,Hamburg,ios
+2270,B,47,Other cities,android
+2271,B,20,Hamburg,ios
+2272,B,37,Other cities,android
+2273,B,27,Berlin,ios
+2274,B,27,Hamburg,ios
+2275,B,31,Hamburg,ios
+2276,B,25,Berlin,android
+2277,B,31,Berlin,android
+2278,B,43,Hamburg,ios
+2279,B,39,Hamburg,android
+2280,B,31,Berlin,ios
+2281,B,40,Other cities,android
+2282,B,33,Other cities,android
+2283,B,28,Other cities,android
+2284,B,29,Berlin,android
+2285,B,37,Other cities,ios
+2286,B,31,Berlin,ios
+2287,B,41,Other cities,ios
+2288,B,22,Hamburg,ios
+2289,B,35,Other cities,android
+2290,B,26,Other cities,android
+2291,B,46,Berlin,android
+2292,B,24,Hamburg,android
+2293,B,43,Other cities,ios
+2294,B,47,Hamburg,android
+2295,B,36,Berlin,ios
+2296,B,22,Hamburg,ios
+2297,B,20,Hamburg,ios
+2298,B,45,Other cities,ios
+2299,B,35,Other cities,ios
+2300,B,33,Other cities,android
+2301,B,45,Hamburg,android
+2302,B,30,Hamburg,ios
+2303,B,25,Hamburg,android
+2304,B,20,Berlin,android
+2305,B,26,Berlin,ios
+2306,B,33,Hamburg,ios
+2307,B,20,Berlin,android
+2308,B,26,Other cities,android
+2309,B,20,Hamburg,ios
+2310,B,38,Berlin,ios
+2311,B,45,Berlin,ios
+2312,B,20,Other cities,android
+2313,B,36,Other cities,android
+2314,B,30,Other cities,ios
+2315,B,30,Hamburg,android
+2316,B,38,Other cities,android
+2317,B,36,Hamburg,ios
+2318,B,20,Other cities,android
+2319,B,31,Hamburg,ios
+2320,B,20,Berlin,ios
+2321,B,31,Other cities,android
+2322,B,42,Other cities,android
+2323,B,38,Berlin,ios
+2324,B,34,Berlin,android
+2325,B,28,Other cities,ios
+2326,B,45,Berlin,android
+2327,B,30,Hamburg,ios
+2328,B,27,Hamburg,android
+2329,B,31,Other cities,ios
+2330,B,43,Other cities,ios
+2331,B,39,Hamburg,android
+2332,B,29,Hamburg,ios
+2333,B,39,Hamburg,ios
+2334,B,41,Berlin,android
+2335,B,39,Other cities,android
+2336,B,31,Other cities,android
+2337,B,26,Berlin,ios
+2338,B,30,Other cities,ios
+2339,B,42,Other cities,android
+2340,B,43,Other cities,ios
+2341,B,22,Other cities,ios
+2342,B,21,Berlin,android
+2343,B,27,Berlin,ios
+2344,B,39,Berlin,ios
+2345,B,51,Other cities,android
+2346,B,26,Berlin,ios
+2347,B,20,Berlin,ios
+2348,B,41,Berlin,ios
+2349,B,34,Berlin,android
+2350,B,44,Hamburg,android
+2351,B,39,Hamburg,ios
+2352,B,27,Berlin,android
+2353,B,36,Hamburg,android
+2354,B,43,Berlin,ios
+2355,B,40,Berlin,ios
+2356,B,34,Hamburg,android
+2357,B,27,Hamburg,android
+2358,B,27,Hamburg,ios
+2359,B,44,Berlin,android
+2360,B,20,Berlin,ios
+2361,B,39,Hamburg,android
+2362,B,24,Hamburg,ios
+2363,B,32,Berlin,ios
+2364,B,20,Berlin,ios
+2365,B,40,Other cities,android
+2366,B,26,Berlin,android
+2367,B,30,Berlin,android
+2368,B,26,Berlin,ios
+2369,B,42,Berlin,android
+2370,B,34,Hamburg,android
+2371,B,30,Berlin,android
+2372,B,42,Berlin,android
+2373,B,35,Hamburg,ios
+2374,B,38,Hamburg,ios
+2375,B,41,Other cities,ios
+2376,B,34,Other cities,ios
+2377,B,35,Berlin,ios
+2378,B,46,Berlin,ios
+2379,B,32,Other cities,android
+2380,B,25,Berlin,android
+2381,B,43,Hamburg,ios
+2382,B,25,Berlin,android
+2383,B,28,Berlin,android
+2384,B,37,Other cities,android
+2385,B,34,Berlin,ios
+2386,B,27,Berlin,android
+2387,B,34,Other cities,ios
+2388,B,38,Berlin,android
+2389,B,20,Other cities,android
+2390,B,36,Berlin,ios
+2391,B,42,Berlin,android
+2392,B,21,Other cities,android
+2393,B,33,Other cities,android
+2394,B,37,Hamburg,ios
+2395,B,36,Other cities,android
+2396,B,30,Berlin,ios
+2397,B,33,Other cities,android
+2398,B,41,Berlin,ios
+2399,B,28,Hamburg,ios
+2400,B,47,Other cities,ios
+2401,B,37,Hamburg,ios
+2402,B,41,Other cities,android
+2403,B,21,Hamburg,ios
+2404,B,20,Other cities,ios
+2405,B,26,Other cities,android
+2406,B,31,Other cities,ios
+2407,B,31,Other cities,ios
+2408,B,27,Berlin,android
+2409,B,21,Berlin,ios
+2410,B,34,Berlin,ios
+2411,B,21,Berlin,android
+2412,B,39,Berlin,ios
+2413,B,42,Hamburg,android
+2414,B,29,Other cities,ios
+2415,B,30,Hamburg,android
+2416,B,42,Berlin,ios
+2417,B,27,Berlin,android
+2418,B,31,Other cities,android
+2419,B,28,Hamburg,ios
+2420,B,29,Berlin,android
+2421,B,35,Other cities,ios
+2422,B,36,Berlin,android
+2423,B,20,Hamburg,ios
+2424,B,55,Other cities,ios
+2425,B,28,Berlin,ios
+2426,B,40,Hamburg,ios
+2427,B,25,Hamburg,android
+2428,B,35,Other cities,android
+2429,B,23,Berlin,ios
+2430,B,34,Berlin,android
+2431,B,23,Berlin,ios
+2432,B,34,Berlin,android
+2433,B,36,Hamburg,ios
+2434,B,35,Hamburg,ios
+2435,B,37,Other cities,ios
+2436,B,22,Other cities,ios
+2437,B,36,Hamburg,android
+2438,B,46,Other cities,ios
+2439,B,37,Hamburg,android
+2440,B,23,Other cities,android
+2441,B,29,Hamburg,android
+2442,B,32,Other cities,android
+2443,B,35,Other cities,android
+2444,B,27,Berlin,android
+2445,B,28,Other cities,ios
+2446,B,42,Berlin,ios
+2447,B,47,Hamburg,ios
+2448,B,31,Berlin,android
+2449,B,33,Berlin,ios
+2450,B,20,Berlin,ios
+2451,B,47,Other cities,android
+2452,B,46,Berlin,android
+2453,B,24,Berlin,android
+2454,B,40,Other cities,android
+2455,B,43,Berlin,ios
+2456,B,32,Other cities,android
+2457,B,38,Berlin,ios
+2458,B,29,Berlin,android
+2459,B,38,Other cities,ios
+2460,B,22,Berlin,ios
+2461,B,20,Other cities,ios
+2462,B,43,Hamburg,android
+2463,B,41,Berlin,ios
+2464,B,46,Other cities,android
+2465,B,29,Hamburg,ios
+2466,B,20,Hamburg,ios
+2467,B,42,Other cities,android
+2468,B,31,Berlin,ios
+2469,B,44,Berlin,android
+2470,B,39,Berlin,ios
+2471,B,25,Other cities,android
+2472,B,41,Other cities,ios
+2473,B,25,Hamburg,ios
+2474,B,39,Other cities,ios
+2475,B,43,Other cities,android
+2476,B,38,Berlin,android
+2477,B,38,Berlin,android
+2478,B,40,Other cities,android
+2479,B,33,Berlin,ios
+2480,B,26,Other cities,android
+2481,B,43,Hamburg,android
+2482,B,26,Berlin,ios
+2483,B,32,Hamburg,ios
+2484,B,27,Berlin,ios
+2485,B,22,Other cities,android
+2486,B,36,Hamburg,ios
+2487,B,24,Hamburg,android
+2488,B,43,Berlin,android
+2489,B,20,Berlin,android
+2490,B,38,Berlin,android
+2491,B,20,Other cities,android
+2492,B,34,Berlin,ios
+2493,B,40,Berlin,ios
+2494,B,38,Hamburg,android
+2495,B,43,Other cities,ios
+2496,B,20,Berlin,ios
+2497,B,47,Hamburg,ios
+2498,B,34,Other cities,android
+2499,B,26,Other cities,ios
+2500,B,48,Hamburg,ios
+9001,,25,Berlin,ios
+9002,A,-5,Hamburg,android
+9003,B,150,Other cities,ios
+9004,A,30,,android
