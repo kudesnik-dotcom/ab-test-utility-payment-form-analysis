@@ -31,11 +31,11 @@ Extra checks on the cleaned data: all payments start within April 1-30, 2024, an
 ## Repository structure
 
 ```
-├── AB_test_Synthetic.ipynb   # full analysis (with outputs)
+├── AB_test.ipynb   # full analysis (with outputs)
 ├── case/case_overview.md              # the case description
 ├── data/
 │   ├── AB_test_synthetic.xlsx   # sheets: Users, Pays (synthetic)
-│   └── AB_test_synthetic.csv    # copy of the Users sheet
+│   └── AB_test.csv    # copy of the Users sheet
 ├── images/                      # charts exported by the notebook
 ├── requirements.txt
 └── LICENSE
@@ -45,7 +45,7 @@ Extra checks on the cleaned data: all payments start within April 1-30, 2024, an
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook AB_test_Synthetic.ipynb
+jupyter notebook AB_test.ipynb
 ```
 
 The notebook reads `data/AB_test_synthetic.xlsx`, writes `clean_synth_data.xlsx` and saves the charts as `viz_*.png` in the working directory.
